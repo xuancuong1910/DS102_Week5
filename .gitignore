@@ -18,6 +18,4 @@ Thumbs.db
 venv/
 env/
 
-# Project specific: Ignore visualization results
-results/*.png
-results/*.jpg
+
